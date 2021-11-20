@@ -1,3 +1,6 @@
+# Description (start 11/2021)
+This project is E-commerce clothing to learn react basic 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
